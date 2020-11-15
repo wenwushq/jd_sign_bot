@@ -1,3 +1,5 @@
+fork自：[ruicky/jd_sign_bot](https://github.com/ruicky/jd_sign_bot)
+
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/06/05/jd-sign/0.png">
 </p>
